@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# RAG generated data
+backend/data/embeddings.json
+
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# Android Studio
+.externalNativeBuild/
+.cxx/
